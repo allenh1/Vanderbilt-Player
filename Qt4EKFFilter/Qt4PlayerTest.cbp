@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Qt4PlayerTest" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Qt4PlayerTest" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Qt4PlayerTest" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add library="../../../usr/local/lib/libplayerc++.so" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="`pkg-config --cflags playerc++`" />
+			<Add option="`pkg-config --libs playerc++`" />
+			<Add directory="/home/allenh1/QtSDK/Desktop/Qt/473/gcc/include" />
+			<Add directory="/home/allenh1/QtSDK/Desktop/Qt/473/gcc/include/QtGui" />
+		</Compiler>
+		<Linker>
+			<Add library="QtCore" />
+			<Add library="QtGui" />
+			<Add library="../../../usr/local/lib/liblodo.so" />
+			<Add library="../../../usr/local/lib/liblododriver.so" />
+			<Add library="../../../usr/local/lib/libplayerc.so" />
+			<Add library="../../../usr/local/lib/libplayerc++.so" />
+			<Add library="../../../usr/local/lib/libplayercommon.so" />
+			<Add library="../../../usr/local/lib/libplayercore.so" />
+			<Add library="../../../usr/local/lib/libplayerdrivers.so" />
+			<Add library="../../../usr/local/lib/libplayerinterface.so" />
+			<Add library="../../../usr/local/lib/libplayerjpeg.so" />
+			<Add library="../../../usr/local/lib/libplayertcp.so" />
+			<Add library="../../../usr/local/lib/libplayerudp.so" />
+			<Add library="../../../usr/local/lib/libplayerutil.so" />
+			<Add library="../../../usr/local/lib/libplayerwkb.so" />
+			<Add directory="/home/allenh1/QtSDK/Desktop/Qt/473/gcc/lib" />
+		</Linker>
+		<Unit filename="MathStruct.h" />
+		<Unit filename="MathTools.h" />
+		<Unit filename="PlayerTools.h" />
+		<Unit filename="Robot.cc" />
+		<Unit filename="Robot.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

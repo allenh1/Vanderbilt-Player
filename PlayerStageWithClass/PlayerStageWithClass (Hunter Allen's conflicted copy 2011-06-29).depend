@@ -1,0 +1,231 @@
+# depslib dependency file v1.0
+1309358249 source:/home/allenh1/Desktop/Dropbox/PlayerStage/CodeBlocks/PlayerStageWithClass/Robot.cc
+	"Robot.h"
+
+1308757257 /home/allenh1/Desktop/Dropbox/PlayerStage/CodeBlocks/PlayerStageWithClass/Robot.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<climits>
+	<iomanip>
+	<time.h>
+	<string>
+	<libplayerc++/playerc++.h>
+
+1307652906 /usr/local/include/player-3.1/libplayerc++/playerc++.h
+	<cstddef>
+	<cmath>
+	<string>
+	<list>
+	<vector>
+	<cstring>
+	"libplayerc/playerc.h"
+	"libplayerc++/utility.h"
+	"libplayerc++/playerclient.h"
+	"libplayerc++/playererror.h"
+	"libplayerc++/clientproxy.h"
+	"libplayerinterface/interface_util.h"
+	<boost/signal.hpp>
+	<boost/bind.hpp>
+	<boost/thread/mutex.hpp>
+	<boost/thread/thread.hpp>
+	<boost/thread/xtime.hpp>
+
+1307652906 /usr/local/include/player-3.1/libplayerc/playerc.h
+	<netinet/in.h>
+	<stddef.h>
+	<stdio.h>
+	<playerconfig.h>
+	<libplayercommon/playercommon.h>
+	<libplayerinterface/player.h>
+	<libplayercommon/playercommon.h>
+	<libplayerinterface/interface_util.h>
+	<libplayerinterface/playerxdr.h>
+	<libplayerinterface/functiontable.h>
+	<libplayerwkb/playerwkb.h>
+	<winsock2.h>
+
+1308757655 /usr/local/include/player-3.1/playerconfig.h
+	<stdint.h>
+	<sys/types.h>
+	<rpc/types.h>
+
+1307652892 /usr/local/include/player-3.1/libplayercommon/playercommon.h
+	<limits.h>
+	<sys/param.h>
+	<libplayercommon/error.h>
+	<assert.h>
+
+1307652892 /usr/local/include/player-3.1/libplayercommon/error.h
+	<stdio.h>
+	<errno.h>
+	<playerconfig.h>
+
+1307652893 /usr/local/include/player-3.1/libplayerinterface/player.h
+	<time.h>
+	"playerconfig.h"
+	<libplayerinterface/player_interfaces.h>
+
+1308942157 /usr/local/include/player-3.1/libplayerinterface/player_interfaces.h
+
+1307652893 /usr/local/include/player-3.1/libplayerinterface/interface_util.h
+	<playerconfig.h>
+
+1308942157 /usr/local/include/player-3.1/libplayerinterface/playerxdr.h
+	<rpc/types.h>
+	<rpc/xdr.h>
+	<libplayerinterface/player.h>
+	<libplayerinterface/functiontable.h>
+
+1307652893 /usr/local/include/player-3.1/libplayerinterface/functiontable.h
+	<playerconfig.h>
+	<rpc/types.h>
+	<rpc/xdr.h>
+
+1307652892 /usr/local/include/player-3.1/libplayerwkb/playerwkb.h
+	<stddef.h>
+	<playerconfig.h>
+	<geos_c.h>
+
+1307652906 /usr/local/include/player-3.1/libplayerc++/utility.h
+
+1307652906 /usr/local/include/player-3.1/libplayerc++/playerclient.h
+	"libplayerc++/utility.h"
+	"libplayerc++/playerc++config.h"
+	<string>
+	<list>
+	<boost/signal.hpp>
+	<boost/thread/mutex.hpp>
+	<boost/thread/thread.hpp>
+	<boost/thread/xtime.hpp>
+	<boost/bind.hpp>
+
+1308757656 /usr/local/include/player-3.1/libplayerc++/playerc++config.h
+
+1307652906 /usr/local/include/player-3.1/libplayerc++/playererror.h
+	<string>
+	<iostream>
+
+1307652906 /usr/local/include/player-3.1/libplayerc++/clientproxy.h
+
+1308757280 source:/home/allenh1/Desktop/Dropbox/PlayerStage/CodeBlocks/PlayerStageWithClass/main.cpp
+	<iostream>
+	<fstream>
+	<libplayerc++/playerc++.h>
+	"Robot.h"
+
+1309205949 source:/home/hunter/Dropbox/PlayerStage/CodeBlocks/PlayerStageWithClass/Robot.cc
+	"Robot.h"
+
+1308757257 /home/hunter/Dropbox/PlayerStage/CodeBlocks/PlayerStageWithClass/Robot.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<climits>
+	<iomanip>
+	<time.h>
+	<string>
+	<libplayerc++/playerc++.h>
+
+1249370700 /usr/local/include/player-3.0/libplayerc++/playerc++.h
+	<cstddef>
+	<cmath>
+	<string>
+	<list>
+	<vector>
+	<cstring>
+	"libplayerc/playerc.h"
+	"libplayerc++/utility.h"
+	"libplayerc++/playerclient.h"
+	"libplayerc++/playererror.h"
+	"libplayerc++/clientproxy.h"
+	"libplayerinterface/interface_util.h"
+	<boost/signal.hpp>
+	<boost/bind.hpp>
+	<boost/thread/mutex.hpp>
+	<boost/thread/thread.hpp>
+	<boost/thread/xtime.hpp>
+
+1249370700 /usr/local/include/player-3.0/libplayerc/playerc.h
+	<netinet/in.h>
+	<stddef.h>
+	<stdio.h>
+	<playerconfig.h>
+	<libplayercommon/playercommon.h>
+	<libplayerinterface/player.h>
+	<libplayercommon/playercommon.h>
+	<libplayerinterface/interface_util.h>
+	<libplayerinterface/playerxdr.h>
+	<libplayerinterface/functiontable.h>
+	<libplayerwkb/playerwkb.h>
+	<winsock2.h>
+
+1308261788 /usr/local/include/player-3.0/playerconfig.h
+	<stdint.h>
+	<sys/types.h>
+	<rpc/types.h>
+
+1249601525 /usr/local/include/player-3.0/libplayercommon/playercommon.h
+	<limits.h>
+	<sys/param.h>
+	<libplayercommon/error.h>
+	<assert.h>
+
+1248374904 /usr/local/include/player-3.0/libplayercommon/error.h
+	<stdio.h>
+	<errno.h>
+	<playerconfig.h>
+
+1277698362 /usr/local/include/player-3.0/libplayerinterface/player.h
+	<time.h>
+	"playerconfig.h"
+	<libplayerinterface/player_interfaces.h>
+
+1308261813 /usr/local/include/player-3.0/libplayerinterface/player_interfaces.h
+
+1277698362 /usr/local/include/player-3.0/libplayerinterface/interface_util.h
+	<playerconfig.h>
+
+1308261813 /usr/local/include/player-3.0/libplayerinterface/playerxdr.h
+	<rpc/types.h>
+	<rpc/xdr.h>
+	<libplayerinterface/player.h>
+	<libplayerinterface/functiontable.h>
+
+1247644689 /usr/local/include/player-3.0/libplayerinterface/functiontable.h
+	<playerconfig.h>
+	<rpc/types.h>
+	<rpc/xdr.h>
+
+1248438328 /usr/local/include/player-3.0/libplayerwkb/playerwkb.h
+	<stddef.h>
+	<playerconfig.h>
+	<geos_c.h>
+
+1234928616 /usr/local/include/player-3.0/libplayerc++/utility.h
+
+1260923615 /usr/local/include/player-3.0/libplayerc++/playerclient.h
+	"libplayerc++/utility.h"
+	"libplayerc++/playerc++config.h"
+	<string>
+	<list>
+	<boost/signal.hpp>
+	<boost/thread/mutex.hpp>
+	<boost/thread/thread.hpp>
+	<boost/thread/xtime.hpp>
+	<boost/bind.hpp>
+
+1308261789 /usr/local/include/player-3.0/libplayerc++/playerc++config.h
+
+1234928616 /usr/local/include/player-3.0/libplayerc++/playererror.h
+	<string>
+	<iostream>
+
+1247630364 /usr/local/include/player-3.0/libplayerc++/clientproxy.h
+
+1308757280 source:/home/hunter/Dropbox/PlayerStage/CodeBlocks/PlayerStageWithClass/main.cpp
+	<iostream>
+	<fstream>
+	<libplayerc++/playerc++.h>
+	"Robot.h"
+

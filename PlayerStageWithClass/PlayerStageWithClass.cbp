@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="PlayerStageWithClass" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/PlayerStageWithClass" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add option="`pkg-config --cflags playerc++`" />
+					<Add option="`pkg-config --libs playerc++`" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/PlayerStageWithClass" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add option="`pkg-config --cflags playerc++`" />
+					<Add option="`pkg-config --libs playerc++`" />
+				</Compiler>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+			<Add option="`pkg-config --cflags playerc++`" />
+			<Add option="`pkg-config --libs playerc++`" />
+		</Compiler>
+		<Linker>
+			<Add library="../../../../../../usr/local/lib/dynamic.so" />
+			<Add library="../../../../../../usr/local/lib/expand_pioneer.so" />
+			<Add library="../../../../../../usr/local/lib/expand_swarm.so" />
+			<Add library="../../../../../../usr/local/lib/fasr.so" />
+			<Add library="../../../../../../usr/local/lib/lasernoise.so" />
+			<Add library="../../../../../../usr/local/lib/libipc.a" />
+			<Add library="../../../../../../usr/local/lib/liblodo.so" />
+			<Add library="../../../../../../usr/local/lib/liblododriver.so" />
+			<Add library="../../../../../../usr/local/lib/libOgreMain.so" />
+			<Add library="../../../../../../usr/local/lib/libOgrePaging.so" />
+			<Add library="../../../../../../usr/local/lib/libOgreProperty.so" />
+			<Add library="../../../../../../usr/local/lib/libOgreRTShaderSystem.so" />
+			<Add library="../../../../../../usr/local/lib/libOgreTerrain.so" />
+			<Add library="../../../../../../usr/local/lib/libplayerc.so" />
+			<Add library="../../../../../../usr/local/lib/libplayerc++.so" />
+			<Add library="../../../../../../usr/local/lib/libplayercommon.so" />
+			<Add library="../../../../../../usr/local/lib/libplayercore.so" />
+			<Add library="../../../../../../usr/local/lib/libplayerdrivers.so" />
+			<Add library="../../../../../../usr/local/lib/libplayerinterface.so" />
+			<Add library="../../../../../../usr/local/lib/libplayerjpeg.so" />
+			<Add library="../../../../../../usr/local/lib/libplayertcp.so" />
+			<Add library="../../../../../../usr/local/lib/libplayerudp.so" />
+			<Add library="../../../../../../usr/local/lib/libplayerwkb.so" />
+			<Add library="../../../../../../usr/local/lib/libpmap.so" />
+			<Add library="../../../../../../usr/local/lib/libstage.so" />
+			<Add library="../../../../../../usr/local/lib/libwavefront_standalone.so" />
+			<Add library="../../../../../../usr/local/lib/pioneer_flocking.so" />
+			<Add library="../../../../../../usr/local/lib/rasterize.so" />
+			<Add library="../../../../../../usr/local/lib/sink.so" />
+			<Add library="../../../../../../usr/local/lib/source.so" />
+			<Add library="../../../../../../usr/local/lib/stageplugin.so" />
+			<Add library="../../../../../../usr/local/lib/wander.so" />
+			<Add library="../../../../../../usr/local/lib/wander_pioneer.so" />
+		</Linker>
+		<Unit filename="Robot.cc" />
+		<Unit filename="Robot.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

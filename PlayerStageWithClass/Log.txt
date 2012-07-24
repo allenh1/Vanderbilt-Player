@@ -1,0 +1,205 @@
+Number of Freak-outs: 1.000000
+Successful Segments: 2.000000
+Distance to goal: 20.044
+Angular difference: -2.813
+
+(10.344, -5.925, -152.200)
+
+
+Number of Freak-outs: 3.000000
+Successful Segments: 1.000000
+Distance to goal: 0.638
+Angular difference: 0.112
+
+(6.300, -6.089, 96.900)
+(-9.602, -6.253, 114.600)
+(-5.818, 7.190, 7.600)
+
+
+Number of Freak-outs: 13.000000
+Successful Segments: 2.000000
+Distance to goal: 21.728
+Angular difference: 3.316
+
+(-5.000, 7.000, 360.000)
+(-3.784, 6.566, 1.000)
+(-3.784, 6.566, 1.000)
+(-3.784, 6.566, 1.000)
+(-3.784, 6.566, 1.000)
+(-3.784, 6.566, 1.000)
+(-3.784, 6.566, 1.000)
+(-3.784, 6.566, 1.000)
+(-3.784, 6.566, 1.000)
+(-3.784, 6.566, 1.000)
+(-3.784, 6.566, 1.000)
+(12.062, 4.973, 186.000)
+(12.061, 4.973, 185.000)
+
+
+Number of Freak-outs: 1.000000
+Successful Segments: 2.000000
+Distance to goal: 21.728
+Angular difference: 3.142
+
+(12.350, -6.082, 142.000)
+
+
+Number of Freak-outs: 4.000000
+Successful Segments: 1.000000
+Distance to goal: 17.383
+Angular difference: 1.868
+
+(12.348, -6.082, 179.000)
+(12.348, -6.082, 179.000)
+(3.841, -7.617, 107.000)
+(3.841, -7.617, 107.000)
+
+
+Number of Freak-outs: 0.000000
+Successful Segments: 3.000000
+Distance to goal: 17.382
+Angular difference: 1.710
+
+
+
+Number of Freak-outs: 4.000000
+Successful Segments: 2.000000
+Distance to goal: 17.655
+Angular difference: 3.910
+
+(-5.899, -9.422, 201.000)
+(-5.899, -9.422, 201.000)
+(4.056, -5.871, 204.000)
+(4.056, -5.871, 204.000)
+
+
+Number of Freak-outs: 0.000000
+Successful Segments: 3.000000
+Distance to goal: 17.655
+Angular difference: 3.805
+
+
+
+Number of Freak-outs: 0.000000
+Successful Segments: 3.000000
+Distance to goal: 17.655
+Angular difference: 3.752
+
+
+
+Number of Freak-outs: 0.000000
+Successful Segments: 3.000000
+Distance to goal: 17.655
+Angular difference: 3.683
+
+
+
+Number of Freak-outs: 0.000000
+Successful Segments: 3.000000
+Distance to goal: 17.655
+Angular difference: 3.665
+
+
+
+Number of Freak-outs: 0.000000
+Successful Segments: 3.000000
+Distance to goal: 17.655
+Angular difference: 3.613
+
+
+
+Number of Freak-outs: 0.000000
+Successful Segments: 3.000000
+Distance to goal: 17.655
+Angular difference: 3.630
+
+
+
+Number of Freak-outs: 4.000000
+Successful Segments: 0.000000
+Distance to goal: 17.655
+Angular difference: 3.700
+
+(10.532, -1.393, 208.000)
+(10.532, -1.393, 206.000)
+(10.532, -1.393, 213.000)
+(10.532, -1.393, 212.000)
+
+
+Number of Freak-outs: 1.000000
+Successful Segments: 2.000000
+Distance to goal: 17.655
+Angular difference: 3.700
+
+(10.532, -1.393, 204.000)
+
+
+Number of Freak-outs: 5.000000
+Successful Segments: 1.000000
+Distance to goal: 22.110
+Angular difference: 2.182
+
+(10.532, -1.393, 212.000)
+(10.532, -1.393, 212.000)
+(8.692, -2.695, 135.000)
+(8.692, -2.695, 135.000)
+(8.692, -2.695, 135.000)
+
+
+Number of Freak-outs: 1.000000
+Successful Segments: 2.000000
+Distance to goal: 22.110
+Angular difference: 2.094
+
+(-5.301, -15.108, 120.000)
+
+
+Number of Freak-outs: 6.000000
+Successful Segments: 2.000000
+Distance to goal: 49.542
+Angular difference: 5.585
+
+(0.000, 0.000, 359.000)
+(-4.878, 17.526, 306.000)
+(-4.878, 17.526, 306.000)
+(12.181, 29.782, 312.000)
+(21.295, 37.423, 316.000)
+(21.295, 37.423, 316.000)
+
+
+Number of Freak-outs: 2.000000
+Successful Segments: 2.000000
+Distance to goal: 46.221
+Angular difference: 5.899
+
+(32.547, 39.701, 342.000)
+(32.547, 39.701, 342.000)
+
+
+Number of Freak-outs: 0.000000
+Successful Segments: 3.000000
+Distance to goal: 46.221
+Angular difference: 5.917
+
+
+
+Number of Freak-outs: 13.000000
+Successful Segments: 1.000000
+Distance to goal: 36.851
+Angular difference: 1.292
+
+(26.437, 40.883, 334.000)
+(25.945, 38.896, 80.000)
+(25.945, 38.896, 80.000)
+(23.625, 30.964, 82.000)
+(23.625, 30.964, 82.000)
+(21.522, 21.426, 75.000)
+(21.522, 21.426, 75.000)
+(19.949, 17.852, 64.000)
+(19.949, 17.852, 64.000)
+(19.949, 17.852, 64.000)
+(17.208, 10.603, 73.000)
+(15.760, 6.910, 68.000)
+(15.760, 6.910, 67.000)
+
+
